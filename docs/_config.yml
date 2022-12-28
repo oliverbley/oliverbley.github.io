@@ -123,6 +123,7 @@ just_the_docs:
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
