@@ -97,5 +97,5 @@ The GPU utilization under macOS can be monitored via the Activity Monitor.
 [jellyfin-ffmpeg]: https://github.com/jellyfin/jellyfin-ffmpeg
 [jellyfin-ffmpeg build]: https://github.com/jellyfin/jellyfin-ffmpeg/releases
 [rffmpeg setup instructions]: https://github.com/joshuaboniface/rffmpeg/blob/6458bc85b758b696073adb52af57cfa27eac0621/SETUP.md
-[jellyfin-docker-macos]: https://github.com/oliverbley/jellyfin-docker-macos
+[jellyfin-docker-macos]: https://github.com/ovbly/jellyfin-docker-macos
 [official ffmpeg static build]: https://evermeet.cx/ffmpeg/
