@@ -11,4 +11,4 @@ Hi, my name is Oliver Bley.
 
 I am a software engineer at the University of Applied Sciences in Jena.
 
-You can find my private projects at [GitHub](oliverbley).
+You can find my private projects at [GitHub](https://github.com/ovbly).
